@@ -20,3 +20,4 @@ LiYin
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GodStick233&show_icons=true&theme=radical?count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodStick233&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,nuxt" />
